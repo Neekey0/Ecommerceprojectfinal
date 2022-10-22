@@ -241,7 +241,7 @@ class HomeController extends Controller
 
         }
 
-        Session::flash('success', 'Payment successful!!!');
+        Session::flash('success', 'Payment done successfuly!!!');
 
         return back();
     }
