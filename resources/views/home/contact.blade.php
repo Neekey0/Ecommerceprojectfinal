@@ -116,7 +116,7 @@ font-size:20px;
 
                <section class="contact">
                <div class="content">
-                 <h3>GET IN TOUCH </h3>
+                 <h3  style="text-align:center; font-size:26px;">GET IN TOUCH </h3>
                  </div>
 
                  @if(session()->has('message'))

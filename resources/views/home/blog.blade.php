@@ -36,7 +36,7 @@
 
                @include('home.header');
                <div style="padding-top:150px;">
-               <h1 align="Center">Sorry !!! Blogs Loading Soon ... </h1>
+               <h1  style="text-align:center; font-size:26px;" align="Center">Sorry !!! Blogs Coming Soon ... </h1>
                </div>
    </body>
 </html>

@@ -38,7 +38,7 @@
 
 
       <!-- product section -->
-              <h3 style="text-align:center";> ALL PRODUCTS </h3>
+              <h3 style="text-align:center; font-size:26px;"> ALL PRODUCTS </h3>
               @include('home.product_view');
 
       <!-- end product section -->

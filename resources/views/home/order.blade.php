@@ -49,6 +49,9 @@
 
                @include('home.header');
 
+              <h3 style="text-align:center; font-size:24px;"> YOUR ORDER LIST </h3>
+
+
         <div class="center">
             <table>
                 <tr>
